@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sanya's app</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <div class="nav-logo b1">
+            <div class="logo">
+
+            </div>
+            </div>
+        
+        <div class="nav2">
+            <p>Deliver to</p>
+            <div class="icon">
+                <i class="fas fa-map-marker-alt"></i>
+                <p>India</p>
+                </div>
+            </div>
+        
+            <div class="nav-search">
+                <select class="s">
+                    <option>All</option>
+                    <option>saree</option>
+                    <option>westerns</option>
+                    <option>kurtis</option>
+                    <option>Gym clothes</option>
+                    </select>
+                <input placeholder="hey girls.... search here!!" class="search-box">
+                <div class="search-icon">
+                    <i class="fas fa-search"></i>
+            </div>
+            </div>
+            
+            <div class="nav4">
+                <span>Hello, Sign in</span>
+                <p>Account & Lists</p>
+
+
+            </div>
+            
+            <div class="nav5">
+                <span>Returns</span>
+                <p>& Orders</p>
+        </div>
+        <div class="nav6">
+            <i class="fas fa-shopping-cart"></i>
+            <p>Cart</p>
+        </div>
+            
+
+        
+        </header>
+        </body>
+        </html>
+
+        
